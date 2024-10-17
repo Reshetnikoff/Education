@@ -9,4 +9,4 @@ After loading the data to the SPM DCM window, we specified the ERP NDMA model, d
 
 The example of result is that the strenght of the reccurent connection of the right right occipital pole is decreased between effects. 
 
-![Result](./result.jpg)
+![Result](./Result.jpg)
