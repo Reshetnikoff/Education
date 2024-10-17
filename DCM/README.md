@@ -5,4 +5,4 @@ At the seminar, she explored how to conduct DCM and how to analyze the obtained 
 
 After loading the data to the SPM DCM window, we specified the ERP NDMA model, defined a time window between 0 and 450 milliseconds, and wrote between trial effects. Detrend, subsample, and mode options were left unchanged. We chose the IMG electromagnetic model and specified source priors. MNI_coords.mat contains all coordinates for these sources. Next, we defined connections, input, and the modulatory matrix.
 
-![SPM DCM screen](./DCM SPM screen.jpg)
+![SPM DCM screen](./DCM/DCM%20SPM%20screen.jpg)
