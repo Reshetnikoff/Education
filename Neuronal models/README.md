@@ -1,4 +1,4 @@
-Here, my experiments with neural computational models are saved:
+Here, my experiments with neural computational models are present:
 
 1. Brunel's network is a fundamental work that allows me to learn how neural populations behave. I show here all activities: fast and slow synchronous irregular state, asynchronous irregular state and synchronous regular state. For all, I calculated CV, power spectrum and theoretical and experimental stationary firing rate where it's acceptable, and leave some comments. I used the model from the Neural Dynamics exercise (https://neuronaldynamics-exercises.readthedocs.io/en/latest/exercises/brunel-network.html) because it has really good plots. However, here, I created my own networks based on the Brian2 package at the end.
 
