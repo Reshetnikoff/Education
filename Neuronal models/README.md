@@ -1,1 +1,5 @@
-Here, my experiments with different neural computational models are saved
+Here, my experiments with neural computational models are saved:
+
+1. Brunel's network is a fundamental work that allows me to learn how neural populations behave. I show here all activities: fast and slow synchronous irregular state, asynchronous irregular state and synchronous regular state. For all, I calculated CV, power spectrum and theoretical and experimental stationary firing rate where it's acceptable, and leave some comments. I used the model from the Neural Dynamics exercise (https://neuronaldynamics-exercises.readthedocs.io/en/latest/exercises/brunel-network.html) because it has really good plots. However, here, I created my own networks based on the Brian2 package at the end.
+
+2. Compte's model of working memory which I'm fascinated. There, two experiments are present. Firstly, I partially reproduce the result of the bump attractor drift depending on the number of neurons in the population. And secondly, I explored how the shape of the bump changes among schizophrenia patients. It refers to the work Murray D. et al, 2014 which I too really like
